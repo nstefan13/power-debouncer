@@ -1,0 +1,6 @@
+id=powerfilter
+name=Power Button Debounce
+version=v1.0
+versionCode=1
+author=you
+description=Ignores bouncing power-key presses (a release followed by a press within 70 ms) on phones with a worn power button.
